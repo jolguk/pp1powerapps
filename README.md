@@ -8,5 +8,7 @@ Query Azure Cognitive Search from within Power Apps https://docs.microsoft.com/e
 
 Create your first Canvas App https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/1-powerapps-introduction
 
+Power Apps Studio make.powerapps.com
+
 
 
