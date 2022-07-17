@@ -10,5 +10,7 @@ Create your first Canvas App https://docs.microsoft.com/en-us/learn/modules/get-
 
 Power Apps Studio make.powerapps.com
 
+Customize Power Apps https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/1-improve-apps-with-customization
+
 
 
