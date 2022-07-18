@@ -14,5 +14,11 @@ Customize Power Apps https://docs.microsoft.com/en-us/learn/modules/customize-ap
 
 Mocking data https://github.com/jolguk/pp1powerapps
 
+Create and use analytic reports with Power BI https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/
+
+Get started with Microsoft data analytics https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/
+
+What is Power Bi? https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+
 
 
