@@ -20,5 +20,7 @@ Get started with Microsoft data analytics https://docs.microsoft.com/en-us/learn
 
 What is Power Bi? https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
 
+Creating a Power Automate flow from Power BI https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-automate-visual?tabs=powerbi-desktop
+
 
 
